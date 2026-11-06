@@ -53,7 +53,7 @@ Progress: 9 of 119 files in the library.
 | `2022BC_Chapter20_AluminimWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter21_MasonryWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter22_SteelWBwm.pdf` | MISSING |  |
-| `2022BC_Chapter23_WoodWBwm.pdf` | MISSING |  |
+| `2022BC_Chapter23_WoodWBwm.pdf` | IN LIBRARY | `BC_Ch23_Wood_2022CC.pdf` |
 | `2022BC_Chapter24_GlassGlazingWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter25_GypsumBoardWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter26_PlasticWBwm.pdf` | MISSING |  |
