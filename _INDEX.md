@@ -54,8 +54,13 @@ Source: .../2022BC_Chapter06_ConstructionTypeWBwm.pdf
 BC Chapter 7, 2022. Key: 705.8 / Table 705.8 (openings by fire separation distance), 705.11 (parapets and exceptions 1 to 6), 716.5.7 (fire door labels; was 715.3.5 in 2008).
 Source: .../2022BC_Chapter07_FireResistanceWBwm.pdf
 
+### BC_Ch09_Fire_Protection_2022CC.pdf
+BC Chapter 9, 2022. Key: 901.9.3 (enlargements; exception: no sprinklers in enlarged portions of unsprinklered one- or two-family dwellings unless 901.9.2 or 901.9.4 requires them), 901.9.4.1 (alterations of 60 percent or more of building value: whole building), 901.9.4.2 (30 to 60 percent: the space being altered), 901.9.5.1 (smoke and CO alarms during alterations), 903.2.8 (Group R; exception for detached one- and two-family dwellings and townhouses not more than three stories). Replaces the 1968 code BC 27-119 basis.
+Cited on: Apollo Alt 2 sprinkler analysis (G-001).
+Source: .../2022BC_Chapter09_FireProtectionWBwm.pdf
+
 ### BC_Ch12_Interior_Environment_2022CC.pdf
-BC Chapter 12, 2022. Key: 1203.5.1.1.1 (natural ventilation, openable area 4 percent of floor area), 1203.5.1.1.2 (adjoining spaces; exception for openings into a sunroom: opening between sunroom and interior room at least 8 percent of the interior room floor area and 20 SF), 1205.2 (natural light; R-3 exception lets skylights count), 1205.2.1 (net glazed area 10 percent, R-3: greater of 10 percent or 12 SF), 1205.2.2 (adjoining spaces for light; R-3 alcove exception 1 needs the opening to be 80 percent of the common wall; exception 3 for sunrooms needs Type I or II construction and no kitchen opening onto it).
+BC Chapter 12, 2022. Key: 1203.5.1.1.1 (natural ventilation, openable area 4 percent of floor area), 1203.5.1.1.2 (adjoining spaces; exception for openings into a sunroom: opening between sunroom and interior room at least 8 percent of the interior room floor area and 20 SF), 1205.2 (natural light; R-3 exception lets skylights count), 1205.2.1 (net glazed area 10 percent, R-3: greater of 10 percent or 12 SF), 1205.2.2 (adjoining spaces for light; R-3 alcove exception 1 needs the opening to be 80 percent of the common wall; exception 3 for sunrooms needs Type I or II construction and no kitchen opening onto it). HABITABLE spaces are governed by 1203.5.1.2, not 1203.5.1.1: 1203.5.1.2.1 openable area 5 percent of the floor area, windows and/or glazed doors (R-3 exception: openable skylights), every opening at least 12 SF glazed and 6 SF openable; 1203.5.1.2.2 adjoining spaces: a room opening off another room is a separate room for ventilation, same R-3 alcove (80 percent) and Type I or II sunroom exceptions as 1205.2.2. 1203.5.1.1 (4 percent, sunroom exception) is for occupiable spaces.
 Cited on: Apollo Alt 2 light and ventilation tabulation (kitchen and dining borrowing through the sunroom).
 Source: .../2022BC_Chapter12_InteriorEnvironmentWBwm.pdf
 

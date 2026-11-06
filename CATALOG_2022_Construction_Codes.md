@@ -5,7 +5,7 @@ Download URL for every file: `https://www.nyc.gov/assets/buildings/codes-pdf/con
 
 Standing rule (David, 2026-11-05): when a question needs a chapter marked MISSING, fetch it from nyc.gov, use it, then add it here (file, `_INDEX.md` entry, `dob_reference` rows) and flip it to IN LIBRARY. Keep going until every chapter is in.
 
-Progress: 9 of 119 files in the library.
+Progress: 10 of 119 files in the library.
 
 ## Building Code (BC)
 
@@ -39,7 +39,7 @@ Progress: 9 of 119 files in the library.
 | `2022BC_Chapter06_ConstructionTypeWBwm.pdf` | IN LIBRARY | `BC_Ch06_Types_of_Construction_2022CC.pdf` |
 | `2022BC_Chapter07_FireResistanceWBwm.pdf` | IN LIBRARY | `BC_Ch07_Fire_Resistance_2022CC.pdf` |
 | `2022BC_Chapter08_InteriorFinishesWBwm.pdf` | MISSING |  |
-| `2022BC_Chapter09_FireProtectionWBwm.pdf` | MISSING |  |
+| `2022BC_Chapter09_FireProtectionWBwm.pdf` | IN LIBRARY | `BC_Ch09_Fire_Protection_2022CC.pdf` |
 | `2022BC_Chapter10_EgressWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter11_AccessibilityWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter12_InteriorEnvironmentWBwm.pdf` | IN LIBRARY | `BC_Ch12_Interior_Environment_2022CC.pdf` |
