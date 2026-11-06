@@ -4,7 +4,7 @@ Wiki-style index of primary-source code documents in this folder. Every file is 
 
 Rule for adding entries: primary source only (nyc.gov), never UpCodes, ICC model text, or code-summary sites. Note the code year or version on every entry. Add the objection that triggered the fetch so the library doubles as an objection playbook.
 
-Last updated: 2026-08-18
+Last updated: 2026-11-05
 
 ---
 
@@ -27,6 +27,46 @@ NYC Building Code Chapter 3 (Use and Occupancy Classification), 2014 code.
 Key sections: BC 310 (Residential Group R, R-3 at 1-2 dwelling units), BC 312 (Group U, accessory storage buildings).
 Cited on: Powers objection 1 (plot plan occupancy classification, existing and proposed).
 Source: nyc.gov/assets/buildings/codes-pdf/cons_codes_2014/2014CC_BC_Chapter_3_Use_and_Occupancy_Classification.pdf
+
+## 2022 Construction Codes (added 2026-11-05, Apollo Alt 2 prep)
+
+Fetched from nyc.gov `codes-pdf/cons_codes_2022/` on 2026-11-05 when the Apollo Alt 2 G-001 notes needed current section numbers. Full chapter list and progress: `CATALOG_2022_Construction_Codes.md`.
+
+### AC_Title28_Ch1_Administration_2022CC.pdf
+AC Title 28 General Administrative Provisions, Chapter 1 (Administration), 2022 code.
+Key sections: 28-116.4 (sign-off of completed work), 28-116.4.1 (certificate of compliance for service equipment), 28-118.4 (applications for certificates of occupancy; 28-118.4.1 to .4.3).
+Cited on: Apollo Alt 2 G-001 notes (replacing 2014 citations).
+Source: nyc.gov/assets/buildings/codes-pdf/cons_codes_2022/2022GAP_Chapter1_AdministrationWBwm.pdf
+
+### BC_Ch01_Administration_2022CC.pdf
+BC Chapter 1, 2022. Key sections: 107.3 (lot diagram), 110.3.5 (energy code compliance inspections).
+Source: .../2022BC_Chapter01_AdministrationWBwm.pdf
+
+### BC_Ch05_Height_Area_2022CC.pdf
+BC Chapter 5, 2022. Key: Tables 504.3, 504.4, 506.2 (allowable height, stories, area). There is no Table 503 in 2022.
+Source: .../2022BC_Chapter05_HeightAreaWBwm.pdf
+
+### BC_Ch06_Types_of_Construction_2022CC.pdf
+BC Chapter 6, 2022. Key: Table 601 (fire-resistance ratings by construction type), Table 602 (exterior walls by fire separation distance).
+Source: .../2022BC_Chapter06_ConstructionTypeWBwm.pdf
+
+### BC_Ch07_Fire_Resistance_2022CC.pdf
+BC Chapter 7, 2022. Key: 705.8 / Table 705.8 (openings by fire separation distance), 705.11 (parapets and exceptions 1 to 6), 716.5.7 (fire door labels; was 715.3.5 in 2008).
+Source: .../2022BC_Chapter07_FireResistanceWBwm.pdf
+
+### BC_Ch12_Interior_Environment_2022CC.pdf
+BC Chapter 12, 2022. Key: 1203.5.1.1.1 (natural ventilation, openable area 4 percent of floor area), 1203.5.1.1.2 (adjoining spaces; exception for openings into a sunroom: opening between sunroom and interior room at least 8 percent of the interior room floor area and 20 SF), 1205.2 (natural light; R-3 exception lets skylights count), 1205.2.1 (net glazed area 10 percent, R-3: greater of 10 percent or 12 SF), 1205.2.2 (adjoining spaces for light; R-3 alcove exception 1 needs the opening to be 80 percent of the common wall; exception 3 for sunrooms needs Type I or II construction and no kitchen opening onto it).
+Cited on: Apollo Alt 2 light and ventilation tabulation (kitchen and dining borrowing through the sunroom).
+Source: .../2022BC_Chapter12_InteriorEnvironmentWBwm.pdf
+
+### BC_Ch14_Exterior_Walls_2022CC.pdf
+BC Chapter 14, 2022. Key: 1406.2 (combustible exterior wall coverings; 1406.2.1 item 1 bars them where fire separation distance is 5 ft or less in Types I to IV, item 3 allows fire-retardant-treated wood).
+Cited on: Apollo Alt 2 W8 lot-line wall siding.
+Source: .../2022BC_Chapter14_ExteriorWallsWBwm.pdf
+
+### BC_Ch33_Safeguards_Construction_2022CC.pdf
+BC Chapter 33, 2022. Key: 3307 (protection of pedestrians), 3309 (protection of adjoining property).
+Source: .../2022BC_Chapter33_Con_DemoSafetyWBwm.pdf
 
 ## Zoning Resolution (current text, DCP)
 
