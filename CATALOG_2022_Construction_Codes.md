@@ -5,7 +5,7 @@ Download URL for every file: `https://www.nyc.gov/assets/buildings/codes-pdf/con
 
 Standing rule (David, 2026-11-05): when a question needs a chapter marked MISSING, fetch it from nyc.gov, use it, then add it here (file, `_INDEX.md` entry, `dob_reference` rows) and flip it to IN LIBRARY. Keep going until every chapter is in.
 
-Progress: 8 of 119 files in the library.
+Progress: 9 of 119 files in the library.
 
 ## Building Code (BC)
 

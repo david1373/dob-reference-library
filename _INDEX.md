@@ -64,6 +64,11 @@ BC Chapter 14, 2022. Key: 1406.2 (combustible exterior wall coverings; 1406.2.1 
 Cited on: Apollo Alt 2 W8 lot-line wall siding.
 Source: .../2022BC_Chapter14_ExteriorWallsWBwm.pdf
 
+### BC_Ch23_Wood_2022CC.pdf
+BC Chapter 23, 2022. Key: 2303.2 (fire-retardant-treated wood: ASTM E84 / UL 723 flame spread index 25 or less with the test extended 20 minutes, flame front not past 10.5 ft; pressure process or integral manufacturing treatment), 2303.2.4 (label contents, incl. the ASTM D2898 rain test wording for exterior use), 2303.2.6 (exterior FRT must be identified "Exterior").
+Cited on: Apollo Alt 2 siding check (Accoya, Class C, is not FRT), 2026-11-05.
+Source: .../2022BC_Chapter23_WoodWBwm.pdf
+
 ### BC_Ch33_Safeguards_Construction_2022CC.pdf
 BC Chapter 33, 2022. Key: 3307 (protection of pedestrians), 3309 (protection of adjoining property).
 Source: .../2022BC_Chapter33_Con_DemoSafetyWBwm.pdf
