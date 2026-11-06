@@ -59,6 +59,11 @@ BC Chapter 9, 2022. Key: 901.9.3 (enlargements; exception: no sprinklers in enla
 Cited on: Apollo Alt 2 sprinkler analysis (G-001).
 Source: .../2022BC_Chapter09_FireProtectionWBwm.pdf
 
+### BC_Ch02_Definitions_2022CC.pdf
+BC Chapter 2, 2022. Key: HABITABLE SPACE (all rooms in a Group R dwelling unit incl. living rooms, kitchens, dining rooms; exceptions include a dining space 55 SF or less off a living room, foyer or kitchen, and a kitchenette), KITCHEN (80 SF or more), KITCHENETTE (under 80 SF), OCCUPIABLE SPACE (other than habitable), SUNROOM.
+Cited on: Apollo Alt 2 light and ventilation (kitchen and dining are habitable, need natural light).
+Source: .../2022BC_Chapter02_DefinitionsWBwm.pdf
+
 ### BC_Ch12_Interior_Environment_2022CC.pdf
 BC Chapter 12, 2022. Key: 1203.5.1.1.1 (natural ventilation, openable area 4 percent of floor area), 1203.5.1.1.2 (adjoining spaces; exception for openings into a sunroom: opening between sunroom and interior room at least 8 percent of the interior room floor area and 20 SF), 1205.2 (natural light; R-3 exception lets skylights count), 1205.2.1 (net glazed area 10 percent, R-3: greater of 10 percent or 12 SF), 1205.2.2 (adjoining spaces for light; R-3 alcove exception 1 needs the opening to be 80 percent of the common wall; exception 3 for sunrooms needs Type I or II construction and no kitchen opening onto it). HABITABLE spaces are governed by 1203.5.1.2, not 1203.5.1.1: 1203.5.1.2.1 openable area 5 percent of the floor area, windows and/or glazed doors (R-3 exception: openable skylights), every opening at least 12 SF glazed and 6 SF openable; 1203.5.1.2.2 adjoining spaces: a room opening off another room is a separate room for ventilation, same R-3 alcove (80 percent) and Type I or II sunroom exceptions as 1205.2.2. 1203.5.1.1 (4 percent, sunroom exception) is for occupiable spaces.
 Cited on: Apollo Alt 2 light and ventilation tabulation (kitchen and dining borrowing through the sunroom).

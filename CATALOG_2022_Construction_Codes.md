@@ -32,7 +32,7 @@ Progress: 10 of 119 files in the library.
 | `2022BC_AppendixS_ExitPathMarkingsWBwm.pdf` | MISSING |  |
 | `2022BC_AppendixU_AncillaryDwellingWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter01_AdministrationWBwm.pdf` | IN LIBRARY | `BC_Ch01_Administration_2022CC.pdf` |
-| `2022BC_Chapter02_DefinitionsWBwm.pdf` | MISSING |  |
+| `2022BC_Chapter02_DefinitionsWBwm.pdf` | IN LIBRARY | `BC_Ch02_Definitions_2022CC.pdf` |
 | `2022BC_Chapter03_OccupancyClassWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter04_SpecialUseWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter05_HeightAreaWBwm.pdf` | IN LIBRARY | `BC_Ch05_Height_Area_2022CC.pdf` |
