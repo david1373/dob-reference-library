@@ -5,7 +5,7 @@ Download URL for every file: `https://www.nyc.gov/assets/buildings/codes-pdf/con
 
 Standing rule (David, 2026-11-05): when a question needs a chapter marked MISSING, fetch it from nyc.gov, use it, then add it here (file, `_INDEX.md` entry, `dob_reference` rows) and flip it to IN LIBRARY. Keep going until every chapter is in.
 
-Progress: 10 of 119 files in the library.
+Progress: 12 of 119 files in the library.
 
 ## Building Code (BC)
 
@@ -40,12 +40,12 @@ Progress: 10 of 119 files in the library.
 | `2022BC_Chapter07_FireResistanceWBwm.pdf` | IN LIBRARY | `BC_Ch07_Fire_Resistance_2022CC.pdf` |
 | `2022BC_Chapter08_InteriorFinishesWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter09_FireProtectionWBwm.pdf` | IN LIBRARY | `BC_Ch09_Fire_Protection_2022CC.pdf` |
-| `2022BC_Chapter10_EgressWBwm.pdf` | MISSING |  |
+| `2022BC_Chapter10_EgressWBwm.pdf` | IN LIBRARY | `BC_Ch10_Means_of_Egress_2022CC.pdf` |
 | `2022BC_Chapter11_AccessibilityWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter12_InteriorEnvironmentWBwm.pdf` | IN LIBRARY | `BC_Ch12_Interior_Environment_2022CC.pdf` |
 | `2022BC_Chapter13_EnergyWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter14_ExteriorWallsWBwm.pdf` | IN LIBRARY | `BC_Ch14_Exterior_Walls_2022CC.pdf` |
-| `2022BC_Chapter15_RoofsRooftopsWBwm.pdf` | MISSING |  |
+| `2022BC_Chapter15_RoofsRooftopsWBwm.pdf` | IN LIBRARY | `BC_Ch15_Roofs_Rooftop_Structures_2022CC.pdf` |
 | `2022BC_Chapter16_StructuralDesignWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter17_SpecialInspectionsWBwm.pdf` | MISSING |  |
 | `2022BC_Chapter18_SoilsFoundationsWBwm.pdf` | MISSING |  |

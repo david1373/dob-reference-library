@@ -4,7 +4,7 @@ Wiki-style index of primary-source code documents in this folder. Every file is 
 
 Rule for adding entries: primary source only (nyc.gov), never UpCodes, ICC model text, or code-summary sites. Note the code year or version on every entry. Add the objection that triggered the fetch so the library doubles as an objection playbook.
 
-Last updated: 2026-11-05
+Last updated: 2026-11-19
 
 ---
 
@@ -64,6 +64,11 @@ BC Chapter 2, 2022. Key: HABITABLE SPACE (all rooms in a Group R dwelling unit i
 Cited on: Apollo Alt 2 light and ventilation (kitchen and dining are habitable, need natural light).
 Source: .../2022BC_Chapter02_DefinitionsWBwm.pdf
 
+### BC_Ch10_Means_of_Egress_2022CC.pdf
+BC Chapter 10, 2022. Key: 1011.3 (stair headroom 84 in; R-2 and R-3 80 in, Exc 1), 1011.5.2 (riser 7 in max, tread 11 in min; R-3 Exc 4: riser 8 1/4 in max, tread 9 in plus nosing, 1 1/4 in nosing where tread under 11 in), 1011.5.5 (nosing profile and projection, solid risers; R-3 open risers with 4 in sphere), 1011.11 (handrails both sides; one side within dwelling units), 1011.12 (stair to roof through a bulkhead in buildings 4 or more stories or over 40 ft), 1014.2 (handrail height 34 to 38 in), 1015.2 / 1015.3 (guards at more than 30 in; 42 in high; R-3 stair guards 34 in), 1015.4 (4 in sphere; 4 3/8 in R-3 stair guards).
+Cited on: Powers stair bulkhead and roof access study (run 31), 2026-11-19.
+Source: .../2022BC_Chapter10_EgressWBwm.pdf
+
 ### BC_Ch12_Interior_Environment_2022CC.pdf
 BC Chapter 12, 2022. Key: 1203.5.1.1.1 (natural ventilation, openable area 4 percent of floor area), 1203.5.1.1.2 (adjoining spaces; exception for openings into a sunroom: opening between sunroom and interior room at least 8 percent of the interior room floor area and 20 SF), 1205.2 (natural light; R-3 exception lets skylights count), 1205.2.1 (net glazed area 10 percent, R-3: greater of 10 percent or 12 SF), 1205.2.2 (adjoining spaces for light; R-3 alcove exception 1 needs the opening to be 80 percent of the common wall; exception 3 for sunrooms needs Type I or II construction and no kitchen opening onto it). HABITABLE spaces are governed by 1203.5.1.2, not 1203.5.1.1: 1203.5.1.2.1 openable area 5 percent of the floor area, windows and/or glazed doors (R-3 exception: openable skylights), every opening at least 12 SF glazed and 6 SF openable; 1203.5.1.2.2 adjoining spaces: a room opening off another room is a separate room for ventilation, same R-3 alcove (80 percent) and Type I or II sunroom exceptions as 1205.2.2. 1203.5.1.1 (4 percent, sunroom exception) is for occupiable spaces.
 Cited on: Apollo Alt 2 light and ventilation tabulation (kitchen and dining borrowing through the sunroom).
@@ -73,6 +78,11 @@ Source: .../2022BC_Chapter12_InteriorEnvironmentWBwm.pdf
 BC Chapter 14, 2022. Key: 1406.2 (combustible exterior wall coverings; 1406.2.1 item 1 bars them where fire separation distance is 5 ft or less in Types I to IV, item 3 allows fire-retardant-treated wood).
 Cited on: Apollo Alt 2 W8 lot-line wall siding.
 Source: .../2022BC_Chapter14_ExteriorWallsWBwm.pdf
+
+### BC_Ch15_Roofs_Rooftop_Structures_2022CC.pdf
+BC Chapter 15, 2022, as amended by Local Law 77 of 2023 (effective June 10, 2023). Key: 1510.1 (rooftop structures subject to Chapter 5 roof coverage and height limits), 1510.2 (bulkheads and penthouses; 1510.2.1 Exc 2: bulkheads on Type III, IV and V buildings where all rooftop structures total 33 1/3 percent of the roof or less, 1-hour exterior walls at FSD over 5 ft and under 30 ft, interior framing Type IV, noncombustible or FRT wood; 1510.2.3 bulkhead use limited to mechanical equipment and shaft openings), 1510.8 (roof guards 42 in on buildings over 22 ft, combustible allowed on Type V), 1510.9 (combustible roof structures under 12 ft high, incl. decking or platforms up to 20 percent of the contiguous roof area). Read with BC 504.3 Exc 1 (Ch 5).
+Cited on: Powers stair bulkhead and roof access study (run 31), 2026-11-19.
+Source: .../2022BC_Chapter15_RoofsRooftopsWBwm.pdf
 
 ### BC_Ch23_Wood_2022CC.pdf
 BC Chapter 23, 2022. Key: 2303.2 (fire-retardant-treated wood: ASTM E84 / UL 723 flame spread index 25 or less with the test extended 20 minutes, flame front not past 10.5 ft; pressure process or integral manufacturing treatment), 2303.2.4 (label contents, incl. the ASTM D2898 rain test wording for exterior use), 2303.2.6 (exterior FRT must be identified "Exterior").
