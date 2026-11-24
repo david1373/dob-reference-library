@@ -5,7 +5,7 @@ Download URL for every file: `https://www.nyc.gov/assets/buildings/codes-pdf/con
 
 Standing rule (David, 2026-11-05): when a question needs a chapter marked MISSING, fetch it from nyc.gov, use it, then add it here (file, `_INDEX.md` entry, `dob_reference` rows) and flip it to IN LIBRARY. Keep going until every chapter is in.
 
-Progress: 12 of 119 files in the library.
+Progress: 13 of 119 files in the library.
 
 ## Building Code (BC)
 
@@ -14,7 +14,7 @@ Progress: 12 of 119 files in the library.
 | `2022BC_AppendixA_ReservedWBwm.pdf` | MISSING |  |
 | `2022BC_AppendixB_ReservedWBwm.pdf` | MISSING |  |
 | `2022BC_AppendixC_ReservedWBwm.pdf` | MISSING |  |
-| `2022BC_AppendixD_FireDistrictsWBwm.pdf` | MISSING |  |
+| `2022BC_AppendixD_FireDistrictsWBwm.pdf` | IN LIBRARY | `BC_AppD_Fire_Districts_2022CC.pdf` |
 | `2022BC_AppendixE_SuppAccessibilityWBwm.pdf` | MISSING |  |
 | `2022BC_AppendixF_Rodent-ProofingWBwm.pdf` | MISSING |  |
 | `2022BC_AppendixG_FloodResistantWBwm.pdf` | MISSING |  |

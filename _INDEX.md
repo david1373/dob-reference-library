@@ -84,6 +84,12 @@ BC Chapter 15, 2022, as amended by Local Law 77 of 2023 (effective June 10, 2023
 Cited on: Powers stair bulkhead and roof access study (run 31), 2026-11-19.
 Source: .../2022BC_Chapter15_RoofsRooftopsWBwm.pdf
 
+
+### BC_AppD_Fire_Districts_2022CC.pdf
+BC Appendix D, 2022, Fire Districts.
+Key sections: D101.2 (all of Brooklyn, Manhattan and the Bronx are inside the fire districts), D102.1 (new buildings Type I to IV), D102.2.4 (bearing walls, floors, roofs not less than 1 hour unless sprinklered), D103.1 (existing buildings not increased in height or area unless of a permitted type), D105.1 exceptions (item 7: existing one- and two-family dwellings extended up to 25 percent; item 8: wood decks under 600 SF of 2 in. nominal pressure-treated wood; item 9: Type VA dwellings in R2 to R5).
+Cited on: Powers bulkhead PAA (prompt 34, 2026-11-24): fire district status, BC Table 601 footnote i, BC 504.3 footnote g.
+Source: nyc.gov/assets/buildings/codes-pdf/cons_codes_2022/2022BC_AppendixD_FireDistrictsWBwm.pdf
 ### BC_Ch23_Wood_2022CC.pdf
 BC Chapter 23, 2022. Key: 2303.2 (fire-retardant-treated wood: ASTM E84 / UL 723 flame spread index 25 or less with the test extended 20 minutes, flame front not past 10.5 ft; pressure process or integral manufacturing treatment), 2303.2.4 (label contents, incl. the ASTM D2898 rain test wording for exterior use), 2303.2.6 (exterior FRT must be identified "Exterior").
 Cited on: Apollo Alt 2 siding check (Accoya, Class C, is not FRT), 2026-11-05.
@@ -146,6 +152,12 @@ Key sections: R501.1 scope, R503 alterations (the basis for the unaltered-portio
 Cited on: both jobs are alterations, governs which envelope provisions apply.
 Source: nyc.gov/assets/buildings/codes-pdf/energy_code_2025/2025nycecc_r5.pdf
 
+
+### NYCECC_2025_AppRF_Alternative_Envelope_R-Values.pdf
+2025 NYCECC residential Appendix RF, Alternative Building Thermal Envelope Insulation R-Value Options.
+Key sections: RF102.1 and Table RF102.1 (wood-framed wall U-factors), RF102.3 and Table RF102.3 (cold-formed steel wall U-factors by stud spacing and framing factor, the method R402.2.7 requires for steel framing), Table RF102.3.1 (effective framing/cavity R-values for the series path method), RF105.1 (basement walls).
+Cited on: Powers bulkhead W9 CFS wall U-factor (prompt 34, 2026-11-24).
+Source: nyc.gov/assets/buildings/codes-pdf/energy_code_2025/2025nycecc_appendix_rf.pdf
 ### DOBNOW_2020_NYCECC_Objections_List.pdf
 The DOB NOW energy objection catalogue, the actual EN-a.x / EN-l.x / EN-r.x codes examiners issue. 2020 ECC edition; 2025 listed as coming soon.
 Cited on: Apollo EN-a.9, EN-a.10, EN-a.5, EN-r.2. Read the entry before answering any EN objection, it states exactly what the examiner is looking for.
